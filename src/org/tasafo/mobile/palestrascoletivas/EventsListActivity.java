@@ -3,6 +3,7 @@ package org.tasafo.mobile.palestrascoletivas;
 import android.app.*;
 import android.content.*;
 import android.os.*;
+import android.support.v7.app.*;
 import android.view.*;
 import android.widget.*;
 import android.widget.AdapterView.OnItemClickListener;
@@ -16,7 +17,7 @@ import org.apache.http.client.methods.*;
 import org.apache.http.impl.client.*;
 import org.json.*;
 
-public class EventsListActivity extends Activity {
+public class EventsListActivity extends ActionBarActivity {
 
 	private static final String EVENTS_ENDPOINT = "http://179.215.196.50:3000/events.json";
 	private ListView _eventsListView;
