@@ -32,5 +32,6 @@
 	<string name="event_country">País</string>
 	<string name="event_country_hint">Brasil</string>
 	<string name="save">Salvar</string>
+	<string name="back">Voltar</string>
 
 </resources>
