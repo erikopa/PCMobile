@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:appcompat="http://schemas.android.com/apk/res-auto" >
 
     <item
         android:id="@+id/event_schedule"
         android:icon="@drawable/ic_action_event"
-        android:title="@string/schedule"/>
+        android:title="@string/schedule"
+        appcompat:showAsAction="ifRoom"/>
     <item
         android:id="@+id/event_map"
         android:icon="@drawable/ic_action_map"
-        android:title="@string/map"/>
+        android:title="@string/map"
+        appcompat:showAsAction="ifRoom"/>
 
 </menu>
