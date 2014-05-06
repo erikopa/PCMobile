@@ -1,15 +1,15 @@
 package org.tasafo.mobile.palestrascoletivas;
 
-import android.app.*;
 import android.content.*;
 import android.os.*;
+import android.support.v7.app.*;
 import android.view.*;
 import android.widget.*;
 
 import java.text.*;
 import java.util.*;
 
-public class EventActivity extends Activity {
+public class EventActivity extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
