@@ -24,6 +24,7 @@ public class EventActivity extends ActionBarActivity {
 		((TextView) findViewById(R.id.event_date)).setText(extense.format(event.getDate()));
 		((TextView) findViewById(R.id.event_place)).setText(event.getPlace());
 		((TextView) findViewById(R.id.event_description)).setText(event.getDescription());
+
 		// getSupportActionBar().setUpAsHomeEnabled();
 	}
 
