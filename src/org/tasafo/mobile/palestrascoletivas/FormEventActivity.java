@@ -1,6 +1,5 @@
 package org.tasafo.mobile.palestrascoletivas;
 
-import android.app.*;
 import android.os.*;
 import android.support.v7.app.*;
 import android.view.*;
