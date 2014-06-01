@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PalestrasColetivas</string>
+    <string name="hello_world">Olá, mundo!</string>
+    <string name="new_">Novo</string>
+    <string name="refresh">Atualizar</string>
+    <string name="title_activity_event">EventActivity</string>
+    <string name="schedule">Programação</string>
+    <string name="map">Local</string>
+	<string name="title_activity_form_event">FormEventActivity</string>
+	<string name="event_name">Nome:</string>
+	<string name="event_name_hint">Conferência de Tecnologia</string>
+	<string name="event_edition">Edição:</string>
+	<string name="event_edition_hint">2014</string>
+	<string name="event_description">Descrição:</string>
+	<string name="event_description_hint">Evento que trata sobre a Tecnologia no mundo atual</string>
+	<string name="event_stocking">Lotação:</string>
+	<string name="event_stocking_hint">0</string>
+	<string name="event_start_date">Data de início:</string>
+	<string name="event_start_date_hint"></string>
+	<string name="event_days"># dias de evento:</string>
+	<string name="event_days_hint">1</string>
+	<string name="event_place">Local:</string>
+	<string name="event_place_hint">Centro de Convençõs do Universo</string>
+	<string name="event_address">Endereço:</string>
+	<string name="event_address_hint">Rua das Potocas, 1001</string>
+	<string name="event_district">Bairro:</string>
+	<string name="event_district_hint">Nazaré</string>
+	<string name="event_state">UF:</string>
+	<string name="event_state_hint">Pará</string>
+	<string name="event_country">País</string>
+	<string name="event_country_hint">Brasil</string>
+	<string name="save">Salvar</string>
+
+</resources>
